@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "Guangzhong, Shenzhen"
 site_theme               : "default"
-title                    : "Xiu, WaiKit"
+title                    : "Academic Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Xiu, WaiKit"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "xiuwk.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
